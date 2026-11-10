@@ -13,9 +13,9 @@ kazukichi0914 のポートフォリオ / リンク集サイトのソースコー
 ## 🔗 各種リンク (Links)
 
 - **LinkBio**: [linkbio.cc/kazukichi0914](https://linkbio.cc/kazukichi0914)
-- **X (Twitter)**: [@ユーザー名](https://x.com/ユーザー名)
+- **X (Twitter)**: [@kazukichi_0914](https://x.com/kazukichi_0914)
 - **GitHub**: [@kazukichi0914](https://github.com/kazukichi0914)
-- **その他ブログ・メディア**: [リンク名](URL)
+- **その他ブログ・メディア**: [かずきち。の日記](https://kazukichi0914.hatenablog.com/)
 
 ---
 
