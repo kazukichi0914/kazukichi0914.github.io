@@ -80,12 +80,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kazukichi0914&theme=gruvbox&utcOffset=9" alt="productive time" />
 </p>
 
-## 🏆 Trophy
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=kazukichi0914&theme=gruvbox" alt="trophy" />
-</p>
-
 ## 🐍 Contribution Snake
 
 <picture>
