@@ -20,12 +20,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🏅 **Google プラチナプロダクトエキスパート**（[Directory](https://productexperts.withgoogle.com/directory/e4278aaa-1be8-4d65-b194-6f46ccd86f91)）
-- 🎓 東京大学 松尾研 卒（[Google Scholar](https://scholar.google.co.jp/citations?user=q3HuOlIAAAAJ&hl=ja)）
-- 📸 Google Maps 認定フォトグラファー（[Google Maps](https://maps.app.goo.gl/oh8ryZxtFjfZd2Jc8)）
-- ⚙️ Google Apps Script コミュニティ管理人
-- 🧠 INTP
-- ✍️ サンプリング記事のご依頼も受け付けています
+🏅 **Google プラチナプロダクトエキスパート**（[Directory](https://productexperts.withgoogle.com/directory/e4278aaa-1be8-4d65-b194-6f46ccd86f91)）
+🎓 東京大学 松尾研 卒（[Google Scholar](https://scholar.google.co.jp/citations?user=q3HuOlIAAAAJ&hl=ja)）
+📸 Google Maps 認定フォトグラファー（[Google Maps](https://maps.app.goo.gl/oh8ryZxtFjfZd2Jc8)）
+⚙️ Google Apps Script コミュニティ管理人
+🧠 INTP
+✍️ サンプリング記事のご依頼も受け付けています
 
 ## 🛠 Skills
 
