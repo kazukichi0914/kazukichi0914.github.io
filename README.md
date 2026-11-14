@@ -1,11 +1,6 @@
 <h1 align="center">Hi there 👋 I'm かずきち。(kazukichi0914)</h1>
 
 <p align="center">
-  Googleプラチナプロダクトエキスパート / 東京大学松尾研卒 / Google Maps認定フォトグラファー / GASコミュニティ管理人 / INTP<br>
-  🇺🇸🇨🇦🇫🇷🇮🇹🇪🇸
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kazukichi0914" alt="profile views" height="20" />
   <a href="https://github.com/kazukichi0914?tab=followers">
     <img src="https://img.shields.io/github/followers/kazukichi0914?label=follow&logo=github&style=flat" alt="GitHub followers" height="20" />
